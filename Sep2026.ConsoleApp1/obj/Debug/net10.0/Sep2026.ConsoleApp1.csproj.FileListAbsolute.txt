@@ -1,0 +1,14 @@
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/bin/Debug/net10.0/Sep2026.ConsoleApp1
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/bin/Debug/net10.0/Sep2026.ConsoleApp1.deps.json
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/bin/Debug/net10.0/Sep2026.ConsoleApp1.runtimeconfig.json
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/bin/Debug/net10.0/Sep2026.ConsoleApp1.dll
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/bin/Debug/net10.0/Sep2026.ConsoleApp1.pdb
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.AssemblyInfoInputs.cache
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.AssemblyInfo.cs
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.dll
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/refint/Sep2026.ConsoleApp1.dll
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.pdb
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.genruntimeconfig.cache
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/ref/Sep2026.ConsoleApp1.dll
